@@ -36,4 +36,5 @@ Sono uno studente di Informatica e Sviluppatore appassionato di **Python, Machin
 ## 📫 Come contattarmi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connettiti_con_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriocaria/)
+
 [![Email](https://img.shields.io/badge/Email-valerio.caria@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:valerio.caria@outlook.com)
