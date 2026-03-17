@@ -2,6 +2,10 @@
 
 Sono uno studente di Informatica e Sviluppatore appassionato di **Python, Machine Learning e Web Development**. Ho recentemente concluso un'Academy specializzante nell'Intelligenza Artificiale e nell'analisi dei dati.
 
+## 📄 CV Aggiornato
+
+👉 [Scarica il mio Curriculum Vitae (PDF)](https://github.com/Wejil/Wejil/blob/main/2026_03_CV_Valerio_Caria.pdf)
+
 ## 🚀 Le mie Competenze
 
 **Linguaggi:**
